@@ -6,7 +6,7 @@
 - My e-mail: w.elias.rod@gmail.com
 - My Linkedin: Wellington de Elias Rodrigues
 - Or my phone number: (12) 98133-9493
-- Its grate to talk to you, thanks for your presence!
+- Its a pleasure to talk to you, thanks for your presence!
 
 <!---
 Dablio-0/Dablio-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
