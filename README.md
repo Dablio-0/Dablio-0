@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about AI, at the curses offer by Microsoft, like AI-900, AZ-900 and others.
 - 💞️ I want to actively collaborate in the company I work for, in addition to contributing to my personal and professional growth in general.
 - 📫 You can contact me with theses means:
-- My e-mail: w.elias.rod@gmail.com
+- My e-mail: wellington.work@gmail.com
 - My Linkedin: Wellington de Elias Rodrigues
 - Or my phone number: (12) 98133-9493
 - Its a pleasure to talk to you, thanks for your presence!
