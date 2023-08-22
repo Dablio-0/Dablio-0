@@ -4,7 +4,7 @@
 - 💞️ I want to actively collaborate in the company I work for, in addition to contributing to my personal and professional growth in general.
 - 📫 You can contact me with theses means:
 - My e-mail: wellington.work@gmail.com
-- My Linkedin: linkedin.com/in/wellington-de-elias-rodrigues-808122266
+- My Linkedin: https://linkedin.com/in/wellington-de-elias-rodrigues-808122266
 - Or my phone number: (12) 98133-9493
 - Its a pleasure to talk to you, thanks for your presence!
 
