@@ -1,11 +1,20 @@
-- 👋 Hi, I am Wellington de Elias Rodrigues.
-- 🌱 I’m currently learning about AI and Cloud Fundamentals, at the curses offer by BigTechs, like AI-900, AZ-900, SC-900 and others. This curses are offer by SENAI, where will I do the trail of knowledge, a partnership of this institution with the BigTechs Microsoft, Google, Amazon, Oracle and Cisco.
-- 💞️ I want to actively collaborate in the company I work for, in addition to contributing to my personal and professional growth in general.
-- 📫 You can contact me with theses means:
+- Thanks for stopping by! Take a moment to get to know me a little better!
+
+🎓 I'm 19 years old and currently pursuing a degree in Systems Analysis and Development. In 2024, I’m in my second year, specifically the 5th semester.
+
+☁ My passion in technology is the DevOps field. I'm actively seeking knowledge and developing technical skills to work with different cloud providers, their services, and the tools that enable resource provisioning.
+
+💻 I also work with web development tools, especially focusing on Back-end development with PHP (Laravel) and its related technologies (libraries and frameworks).
+
+🔍 My biggest motivation for specializing in technology is my belief that, in the near future, all fields of knowledge will rely on it. My goal is to be prepared both personally and professionally to meet the market's innovative demands.
+
+✅ I’m communicative and love socializing, which I see as an important virtue in the workplace. In the tech field, agile development methodologies (SCRUM) require this ability.
+
+💁🏻‍♂️ This is a brief introduction about me!
+
 - My e-mail: wellingtonrod.work@gmail.com
 - My Linkedin: https://linkedin.com/in/wellington-de-elias-rodrigues-808122266
 - Or my phone number: (12) 98133-9493
-- Its a pleasure to talk to you, thanks for your presence!
 
 <!---
 Dablio-0/Dablio-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
