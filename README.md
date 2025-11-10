@@ -1,6 +1,6 @@
 - Thanks for stopping by! Take a moment to get to know me a little better!
 
-🎓 I'm 20 years old and currently pursuing a degree in Systems Analysis and Development. In 205, I’m in my third year, specifically the 6th semester.
+🎓 I'm 20 years old and currently pursuing a degree in Systems Analysis and Development. In 2025, I’m in my third year, specifically the 6th semester.
 
 ☁ My passion in technology is the DevOps field. I'm actively seeking knowledge and developing technical skills to work with different cloud providers, their services, and the tools that enable resource provisioning.
 
