@@ -16,7 +16,6 @@
 - My Linkedin: https://linkedin.com/in/wellington-de-elias-rodrigues-808122266
 - Or my phone number: (12) 98133-9493
 
-<!---
-Dablio-0/Dablio-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+![Dablio-0's Stats](https://github-readme-stats.vercel.app/api?username=Dablio-0&theme=outrun&show_icons=true&hide_border=false&count_private=false)
+![Dablio-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dablio-0&theme=outrun&hide_border=false)
+![Dablio-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dablio-0&theme=outrun&show_icons=true&hide_border=false&layout=compact)
