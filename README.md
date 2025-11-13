@@ -16,6 +16,10 @@
 - My Linkedin: https://linkedin.com/in/wellington-de-elias-rodrigues-808122266
 - Or my phone number: (12) 98133-9493
 
+- Technologies
+![My Skills](https://skillicons.dev/icons?i=html,js,jquery,css,laravel,aws,gcp,docker,git,github)](https://skillicons.dev)
+
+- Stats
 ![Dablio-0's Stats](https://github-readme-stats.vercel.app/api?username=Dablio-0&theme=outrun&show_icons=true&hide_border=false&count_private=false)
 ![Dablio-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dablio-0&theme=outrun&hide_border=false)
 ![Dablio-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dablio-0&theme=outrun&show_icons=true&hide_border=false&layout=compact)
