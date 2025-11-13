@@ -18,7 +18,7 @@
 
 #### Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,js,jquery,css,laravel,aws,gcp,docker,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,js,jquery,css,vscode,visualstudio,laravel,mysql,linux,windows,aws,gcp,docker,git,github)
 
 
 #### Stats
